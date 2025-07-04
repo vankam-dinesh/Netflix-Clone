@@ -23,7 +23,7 @@ I have deployed my project in github pages
 
 
 ## 🚀 About Me
-👋 Hi, I’m D
+👋 Hi, I’m Dinesh
 
 👀 I’m interested in coding.
  
@@ -32,14 +32,10 @@ I have deployed my project in github pages
 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
 
 
 
-
-
-GitHub: https://github.com/affancoder
+GitHub: 
 ## Feedback
 
 If you have any feedback, please reach out to us at dineshvankam56@gmail.com
