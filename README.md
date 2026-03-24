@@ -7,7 +7,7 @@ https://github.com/affancoder/NetflixUI-Clone/assets/113276865/b3c89895-a599-409
 
 Project Summary:
 
-Title: Netflix - Watch TV Shows & movies
+Title: Netflix - Watch TV Shows & movies                                 
                                                                                                                                                                        
 Description:
 
