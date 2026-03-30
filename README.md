@@ -8,7 +8,7 @@ https://github.com/affancoder/NetflixUI-Clone/assets/113276865/b3c89895-a599-409
 Project Summary:
 
 Title: Netflix - Watch TV Shows & movies                                 
-                                                                                                                                                                       
+                                                                                                                                                                                       
 Description:
 
 I crafted a Netflix clone for my frontend project, leveraging HTML and CSS. The project mirrors the visual style of Netflix, demonstrating my proficiency in web development. It encompasses a thoughtfully designed layout, responsive elements, and meticulous styling, showcasing my ability to recreate a popular interface using fundamental web technologies.
